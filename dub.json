@@ -1,0 +1,9 @@
+{
+    "name": "lastmodder",
+    "authors": [
+        "Kazuya Takahashi"
+    ],
+    "description": "Last modified timestamp tweaker.",
+    "copyright": "Copyright (C) 2019, Kazuya Takahashi",
+    "license": "MIT"
+}
